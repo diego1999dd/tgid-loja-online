@@ -1,0 +1,444 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Cyberpunk 2077",
+      "preco": 199.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png"
+    },
+    {
+      "id": 2,
+      "nome": "Elden Ring",
+      "preco": 249.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "God of War: Ragnarök",
+      "preco": 299.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-15owu.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Hogwarts Legacy",
+      "preco": 279.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "The Last of Us Part I",
+      "preco": 259.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/ca6Dr3k7PXKaDgEbhN9eODeD.png"
+    },
+    {
+      "id": 6,
+      "nome": "Halo Infinite",
+      "preco": 229.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1240440/header.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "FIFA 25",
+      "preco": 319.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://tm.ibxk.com.br/2024/11/21/21174535385840.jpg?ims=1280x605"
+    },
+    {
+      "id": 8,
+      "nome": "Forza Horizon 5",
+      "preco": 199.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "Spider-Man 2",
+      "preco": 249.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/e66c4ae18c5d8e3986a24599b293162a6f5c9eba22968d2c.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "Starfield",
+      "preco": 299.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1716740/header.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Fortnite",
+      "preco": 0,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg"
+    },
+    {
+      "id": 12,
+      "nome": "Tom Clancy's Ghost Recon Breakpoint",
+      "preco": 239.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2231380/header.jpg"
+    },
+    {
+      "id": 13,
+      "nome": "Call of Duty: Modern Warfare III",
+      "preco": 349.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg"
+    },
+    {
+      "id": 14,
+      "nome": "Final Fantasy XVI",
+      "preco": 299.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1608070/header.jpg"
+    },
+    {
+      "id": 15,
+      "nome": "Alan Wake 2",
+      "preco": 269.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3116/b1641ab1b5ec0c8f76c44e59e9d8a1639c913c98c09d057f.jpg"
+    },
+    {
+      "id": 16,
+      "nome": "Gran Turismo 7",
+      "preco": 249.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/3mjMyRiJaq8lw1EFWiTCUJRV.png"
+    },
+    {
+      "id": 17,
+      "nome": "Red Dead Redemption 2",
+      "preco": 219.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg"
+    },
+    {
+      "id": 18,
+      "nome": "Mortal Kombat 1",
+      "preco": 299.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg"
+    },
+    {
+      "id": 19,
+      "nome": "Street Fighter 6",
+      "preco": 269.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg"
+    },
+    {
+      "id": 20,
+      "nome": "Diablo IV",
+      "preco": 329.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg"
+    },
+    {
+      "id": 21,
+      "nome": "Resident Evil 4 Remake",
+      "preco": 279.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg"
+    },
+    {
+      "id": 22,
+      "nome": "The Witcher 3: Wild Hunt",
+      "preco": 129.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg"
+    },
+    {
+      "id": 23,
+      "nome": "Sekiro: Shadows Die Twice",
+      "preco": 179.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg"
+    },
+    {
+      "id": 24,
+      "nome": "Dead by Daylight",
+      "preco": 149.9,
+      "plataformaImg": "/pc.png",
+      "plataforma": "PC",
+      "foto": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-a32581cf9948a9a2e24b2ff15c1577c7"
+    },
+    {
+      "id": 25,
+      "nome": "For Honor",
+      "preco": 99.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
+    },
+    {
+      "id": 26,
+      "nome": "Hades",
+      "preco": 89.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg"
+    },
+    {
+      "id": 27,
+      "nome": "Baldur's Gate 3",
+      "preco": 299.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg"
+    },
+    {
+      "id": 28,
+      "nome": "DOOM Eternal",
+      "preco": 159.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg"
+    },
+    {
+      "id": 29,
+      "nome": "Persona 5 Royal",
+      "preco": 199.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg"
+    },
+    {
+      "id": 30,
+      "nome": "Gears 5",
+      "preco": 119.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1097840/header.jpg"
+    },
+    {
+      "id": 31,
+      "nome": "Cuphead",
+      "preco": 49.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg"
+    },
+    {
+      "id": 32,
+      "nome": "Ghost of Tsushima: Director's Cut",
+      "preco": 249.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2215430/header.jpg"
+    },
+    {
+      "id": 33,
+      "nome": "Death Stranding",
+      "preco": 139.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1190460/header.jpg"
+    },
+    {
+      "id": 34,
+      "nome": "Ori and the Will of the Wisps",
+      "preco": 79.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1057090/header.jpg"
+    },
+    {
+      "id": 35,
+      "nome": "Control: Ultimate Edition",
+      "preco": 99.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/870780/header.jpg"
+    },
+    {
+      "id": 36,
+      "nome": "Sea of Thieves",
+      "preco": 159.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/header.jpg"
+    },
+    {
+      "id": 37,
+      "nome": "It Takes Two",
+      "preco": 129.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg"
+    },
+    {
+      "id": 38,
+      "nome": "A Plague Tale: Requiem",
+      "preco": 189.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1182900/header.jpg"
+    },
+    {
+      "id": 39,
+      "nome": "Lies of P",
+      "preco": 199.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg"
+    },
+    {
+      "id": 40,
+      "nome": "Hi-Fi RUSH",
+      "preco": 149.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1817230/header.jpg"
+    },
+    {
+      "id": 41,
+      "nome": "Remnant II",
+      "preco": 179.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1282100/header.jpg"
+    },
+    {
+      "id": 42,
+      "nome": "Atomic Heart",
+      "preco": 159.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg"
+    },
+    {
+      "id": 43,
+      "nome": "Palworld",
+      "preco": 119.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg"
+    },
+    {
+      "id": 44,
+      "nome": "The Legend of Heroes: Trails into Reverie",
+      "preco": 249.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1668540/header.jpg"
+    },
+    {
+      "id": 45,
+      "nome": "Evil West",
+      "preco": 139.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1065310/header.jpg"
+    },
+    {
+      "id": 46,
+      "nome": "Sonic Frontiers",
+      "preco": 179.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1237320/header.jpg"
+    },
+    {
+      "id": 47,
+      "nome": "Returnal",
+      "preco": 229.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1649240/header.jpg"
+    },
+    {
+      "id": 48,
+      "nome": "No Man's Sky",
+      "preco": 99.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg"
+    },
+    {
+      "id": 49,
+      "nome": "Dragon's Dogma 2",
+      "preco": 299.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/header.jpg"
+    },
+    {
+      "id": 50,
+      "nome": "PAYDAY 3",
+      "preco": 159.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1272080/header.jpg"
+    },
+    {
+      "id": 51,
+      "nome": "DAVE THE DIVER",
+      "preco": 89.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg"
+    },
+    {
+      "id": 52,
+      "nome": "Horizon Forbidden West",
+      "preco": 249.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/DLgLjXPNm5aX4dJ3qvXOCKW4.jpg"
+    },
+    {
+      "id": 53,
+      "nome": "Star Wars Jedi: Survivor",
+      "preco": 299.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1774580/header.jpg"
+    },
+    {
+      "id": 54,
+      "nome": "Marvel's Guardians of the Galaxy",
+      "preco": 159.9,
+      "plataformaImg": "/playstation.png",
+      "plataforma": "PS5",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/header.jpg"
+    },
+    {
+      "id": 55,
+      "nome": "Yakuza: Like a Dragon",
+      "preco": 119.9,
+      "plataformaImg": "/xbox.png",
+      "plataforma": "Xbox Series X",
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg"
+    }
+  ]
+}
