@@ -22,7 +22,7 @@ function Navbar() {
             <form className="flex items-center justify-center w-full">
               <input
                 className="w-10/12 px-4 py-4 bg-gray-400 rounded-full h-9 focus:outline-none"
-                placeholder="Pesquisar produto pelo nome"
+                placeholder="Pesquisar pelo nome do jogo"
               ></input>
             </form>
           </div>
