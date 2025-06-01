@@ -1,9 +1,20 @@
+import { BrowserRouter, Routes } from "react-router-dom";
+import Navbar from "./components/navbar/Navbar";
+import Footer from "./components/footer/Footer";
+
 function App() {
   return (
     <>
-      <div>
-        <h1></h1>
-      </div>
+      <BrowserRouter>
+        <Navbar />
+        <div
+          className="min-h-[80vh]
+        "
+        >
+          <Routes></Routes>
+        </div>
+        <Footer />
+      </BrowserRouter>
     </>
   );
 }
