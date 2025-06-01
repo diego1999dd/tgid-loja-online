@@ -5,4 +5,7 @@ export default interface Produto {
   foto: string;
   plataformaImg: string;
   plataforma: string;
+  descricao: string;
+  desenvolvedora: string;
+  genero: string;
 }

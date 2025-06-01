@@ -29,7 +29,7 @@ function Navbar() {
           <div className="text-white">
             <ul className="flex space-x-3">
               <li className="relative font-bold before:absolute before:bottom-0 before:left-0 before:w-0 before:h-1 before:bg-red-500 before:transition-all before:duration-300 before:ease-in-out hover:before:w-full pb-2">
-                <Link to="" className="flex">
+                <Link to="/produtos" className="flex">
                   <GameControllerIcon size={25} className="mr-1 " /> Produtos
                 </Link>
               </li>
@@ -37,7 +37,9 @@ function Navbar() {
                 <UserIcon size={25} />
               </li>
               <li>
-                <ShoppingCartIcon size={25} />
+                <Link to="">
+                  <ShoppingCartIcon size={25} />
+                </Link>
               </li>
             </ul>
           </div>

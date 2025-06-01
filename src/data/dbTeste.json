@@ -6,7 +6,10 @@
       "preco": 199.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png"
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png",
+      "descricao": "Cyberpunk 2077 é um RPG de ação em mundo aberto ambientado na futurística cidade de Night City, onde os jogadores assumem o papel de V, um mercenário em busca da imortalidade.",
+      "desenvolvedora": "CD PROJEKT RED",
+      "genero": "RPG de ação"
     },
     {
       "id": 2,
@@ -14,7 +17,10 @@
       "preco": 249.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg"
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg",
+      "descricao": "Elden Ring é um RPG de ação em mundo aberto desenvolvido em colaboração com George R. R. Martin, onde o jogador explora as Terras Intermédias em busca do Elden Ring.",
+      "desenvolvedora": "FromSoftware",
+      "genero": "RPG de ação (Soulslike)"
     },
     {
       "id": 3,
@@ -22,7 +28,10 @@
       "preco": 299.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-15owu.jpg"
+      "foto": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-15owu.jpg",
+      "descricao": "God of War: Ragnarök é um jogo de ação e aventura que continua a saga de Kratos e seu filho Atreus enquanto enfrentam deuses nórdicos e monstros no fim dos tempos.",
+      "desenvolvedora": "Santa Monica Studio",
+      "genero": "Ação-aventura"
     },
     {
       "id": 4,
@@ -30,7 +39,10 @@
       "preco": 279.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg",
+      "descricao": "Hogwarts Legacy é um RPG de ação em mundo aberto ambientado no universo de Harry Potter, permitindo ao jogador viver como um estudante de Hogwarts no século XIX.",
+      "desenvolvedora": "Avalanche Software",
+      "genero": "RPG de ação"
     },
     {
       "id": 5,
@@ -38,7 +50,10 @@
       "preco": 259.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/ca6Dr3k7PXKaDgEbhN9eODeD.png"
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/ca6Dr3k7PXKaDgEbhN9eODeD.png",
+      "descricao": "The Last of Us Part I é um remake do aclamado jogo de ação e aventura, acompanhando Joel e Ellie em uma jornada pós-apocalíptica pelos Estados Unidos.",
+      "desenvolvedora": "Naughty Dog",
+      "genero": "Ação-aventura"
     },
     {
       "id": 6,
@@ -46,7 +61,10 @@
       "preco": 229.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1240440/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1240440/header.jpg",
+      "descricao": "Halo Infinite é um jogo de tiro em primeira pessoa que traz de volta o Master Chief em uma nova aventura para salvar a humanidade contra o Banished.",
+      "desenvolvedora": "343 Industries",
+      "genero": "Tiro em primeira pessoa (FPS)"
     },
     {
       "id": 7,
@@ -54,7 +72,10 @@
       "preco": 319.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://tm.ibxk.com.br/2024/11/21/21174535385840.jpg?ims=1280x605"
+      "foto": "https://tm.ibxk.com.br/2024/11/21/21174535385840.jpg?ims=1280x605",
+      "descricao": "FIFA 25 é o mais recente título da famosa franquia de futebol, trazendo melhorias em jogabilidade, gráficos e modos de jogo.",
+      "desenvolvedora": "EA Sports",
+      "genero": "Esporte (Futebol)"
     },
     {
       "id": 8,
@@ -62,7 +83,10 @@
       "preco": 199.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg",
+      "descricao": "Forza Horizon 5 é um jogo de corrida em mundo aberto ambientado no México, com uma vasta seleção de carros e eventos dinâmicos.",
+      "desenvolvedora": "Playground Games",
+      "genero": "Corrida"
     },
     {
       "id": 9,
@@ -70,7 +94,10 @@
       "preco": 249.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/e66c4ae18c5d8e3986a24599b293162a6f5c9eba22968d2c.jpg"
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/e66c4ae18c5d8e3986a24599b293162a6f5c9eba22968d2c.jpg",
+      "descricao": "Marvel's Spider-Man 2 é um jogo de ação e aventura que coloca Peter Parker e Miles Morales contra novos vilões em Nova York.",
+      "desenvolvedora": "Insomniac Games",
+      "genero": "Ação-aventura"
     },
     {
       "id": 10,
@@ -78,7 +105,10 @@
       "preco": 299.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1716740/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1716740/header.jpg",
+      "descricao": "Starfield é um RPG de ficção científica em mundo aberto, onde o jogador explora o espaço e descobre novos planetas e civilizações.",
+      "desenvolvedora": "Bethesda Game Studios",
+      "genero": "RPG"
     },
     {
       "id": 11,
@@ -86,7 +116,10 @@
       "preco": 0,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg"
+      "foto": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg",
+      "descricao": "Fortnite é um jogo battle royale gratuito onde até 100 jogadores lutam para ser o último sobrevivente em uma ilha cheia de armas e construções.",
+      "desenvolvedora": "Epic Games",
+      "genero": "Battle Royale"
     },
     {
       "id": 12,
@@ -94,7 +127,10 @@
       "preco": 239.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2231380/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2231380/header.jpg",
+      "descricao": "Ghost Recon Breakpoint é um jogo de tiro tático em mundo aberto, onde o jogador assume o papel de um soldado de elite em uma ilha hostil.",
+      "desenvolvedora": "Ubisoft Paris",
+      "genero": "Tiro tático"
     },
     {
       "id": 13,
@@ -102,7 +138,10 @@
       "preco": 349.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg",
+      "descricao": "Modern Warfare III é o mais recente capítulo da famosa franquia de tiro em primeira pessoa, trazendo campanha intensa e modos multiplayer competitivos.",
+      "desenvolvedora": "Sledgehammer Games",
+      "genero": "Tiro em primeira pessoa (FPS)"
     },
     {
       "id": 14,
@@ -110,7 +149,10 @@
       "preco": 299.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1608070/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1608070/header.jpg",
+      "descricao": "Final Fantasy XVI é um RPG de ação que apresenta uma narrativa épica em um mundo de fantasia medieval, com batalhas intensas e invocações poderosas.",
+      "desenvolvedora": "Square Enix",
+      "genero": "RPG de ação"
     },
     {
       "id": 15,
@@ -118,7 +160,10 @@
       "preco": 269.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3116/b1641ab1b5ec0c8f76c44e59e9d8a1639c913c98c09d057f.jpg"
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3116/b1641ab1b5ec0c8f76c44e59e9d8a1639c913c98c09d057f.jpg",
+      "descricao": "Alan Wake 2 é um thriller de terror psicológico que continua a história do escritor Alan Wake enquanto ele enfrenta horrores sobrenaturais.",
+      "desenvolvedora": "Remedy Entertainment",
+      "genero": "Terror psicológico"
     },
     {
       "id": 16,
@@ -126,7 +171,10 @@
       "preco": 249.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/3mjMyRiJaq8lw1EFWiTCUJRV.png"
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/3mjMyRiJaq8lw1EFWiTCUJRV.png",
+      "descricao": "Gran Turismo 7 é um simulador de corridas com uma vasta seleção de carros, pistas e modos de jogo para fãs de automobilismo.",
+      "desenvolvedora": "Polyphony Digital",
+      "genero": "Simulação de corrida"
     },
     {
       "id": 17,
@@ -134,7 +182,10 @@
       "preco": 219.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+      "descricao": "Red Dead Redemption 2 é um jogo de ação e aventura em mundo aberto ambientado no Velho Oeste americano, acompanhando a gangue de Arthur Morgan.",
+      "desenvolvedora": "Rockstar Games",
+      "genero": "Ação-aventura"
     },
     {
       "id": 18,
@@ -142,7 +193,10 @@
       "preco": 299.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
+      "descricao": "Mortal Kombat 1 é um jogo de luta que reinventa a famosa franquia com novos personagens, cenários e modos de combate.",
+      "desenvolvedora": "NetherRealm Studios",
+      "genero": "Luta"
     },
     {
       "id": 19,
@@ -150,7 +204,10 @@
       "preco": 269.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
+      "descricao": "Street Fighter 6 é o mais novo capítulo da clássica série de jogos de luta, trazendo novos personagens e mecânicas inovadoras.",
+      "desenvolvedora": "Capcom",
+      "genero": "Luta"
     },
     {
       "id": 20,
@@ -158,7 +215,10 @@
       "preco": 329.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg",
+      "descricao": "Diablo IV é um RPG de ação sombrio com exploração de masmorras, combate frenético e uma narrativa envolvente.",
+      "desenvolvedora": "Blizzard Entertainment",
+      "genero": "RPG de ação"
     },
     {
       "id": 21,
@@ -166,7 +226,10 @@
       "preco": 279.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
+      "descricao": "Resident Evil 4 Remake é uma reimaginação do clássico survival horror, com gráficos aprimorados e jogabilidade modernizada.",
+      "desenvolvedora": "Capcom",
+      "genero": "Survival horror"
     },
     {
       "id": 22,
@@ -174,7 +237,10 @@
       "preco": 129.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg",
+      "descricao": "The Witcher 3: Wild Hunt é um RPG de mundo aberto que acompanha Geralt de Rívia em busca de sua filha adotiva em um mundo repleto de monstros e intrigas.",
+      "desenvolvedora": "CD PROJEKT RED",
+      "genero": "RPG de ação"
     },
     {
       "id": 23,
@@ -182,7 +248,10 @@
       "preco": 179.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+      "descricao": "Sekiro: Shadows Die Twice é um jogo de ação e aventura ambientado no Japão feudal, focado em combate desafiador e furtividade.",
+      "desenvolvedora": "FromSoftware",
+      "genero": "Ação-aventura"
     },
     {
       "id": 24,
@@ -190,7 +259,10 @@
       "preco": 149.9,
       "plataformaImg": "/pc.png",
       "plataforma": "PC",
-      "foto": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-a32581cf9948a9a2e24b2ff15c1577c7"
+      "foto": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-a32581cf9948a9a2e24b2ff15c1577c7",
+      "descricao": "Dead by Daylight é um jogo multiplayer de terror assimétrico onde um jogador assume o papel de assassino e os outros tentam sobreviver.",
+      "desenvolvedora": "Behaviour Interactive",
+      "genero": "Terror multiplayer"
     },
     {
       "id": 25,
@@ -198,7 +270,10 @@
       "preco": 99.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg",
+      "descricao": "For Honor é um jogo de ação focado em combates corpo a corpo entre guerreiros históricos como cavaleiros, vikings e samurais.",
+      "desenvolvedora": "Ubisoft Montreal",
+      "genero": "Ação"
     },
     {
       "id": 26,
@@ -206,7 +281,10 @@
       "preco": 89.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg",
+      "descricao": "Hades é um roguelike de ação onde o jogador controla Zagreus, filho de Hades, tentando escapar do submundo grego.",
+      "desenvolvedora": "Supergiant Games",
+      "genero": "Roguelike de ação"
     },
     {
       "id": 27,
@@ -214,7 +292,10 @@
       "preco": 299.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg",
+      "descricao": "Baldur's Gate 3 é um RPG baseado em Dungeons & Dragons, com combate por turnos e narrativa ramificada.",
+      "desenvolvedora": "Larian Studios",
+      "genero": "RPG"
     },
     {
       "id": 28,
@@ -222,7 +303,10 @@
       "preco": 159.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg",
+      "descricao": "DOOM Eternal é um jogo de tiro em primeira pessoa frenético, onde o jogador enfrenta hordas de demônios em diferentes dimensões.",
+      "desenvolvedora": "id Software",
+      "genero": "Tiro em primeira pessoa (FPS)"
     },
     {
       "id": 29,
@@ -230,7 +314,10 @@
       "preco": 199.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg",
+      "descricao": "Persona 5 Royal é uma versão expandida do RPG japonês, com novos personagens, histórias e mecânicas de combate.",
+      "desenvolvedora": "Atlus",
+      "genero": "RPG japonês"
     },
     {
       "id": 30,
@@ -238,7 +325,10 @@
       "preco": 119.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1097840/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1097840/header.jpg",
+      "descricao": "Gears 5 é um jogo de tiro em terceira pessoa focado em ação cooperativa e uma narrativa intensa no universo Gears of War.",
+      "desenvolvedora": "The Coalition",
+      "genero": "Tiro em terceira pessoa"
     },
     {
       "id": 31,
@@ -246,7 +336,10 @@
       "preco": 49.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg",
+      "descricao": "Cuphead é um jogo de plataforma e tiro com visual inspirado em desenhos animados dos anos 1930, famoso por sua dificuldade elevada.",
+      "desenvolvedora": "Studio MDHR",
+      "genero": "Plataforma/run and gun"
     },
     {
       "id": 32,
@@ -254,7 +347,10 @@
       "preco": 249.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2215430/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2215430/header.jpg",
+      "descricao": "Ghost of Tsushima: Director's Cut é uma versão aprimorada do jogo de ação e aventura ambientado no Japão feudal, com conteúdo adicional.",
+      "desenvolvedora": "Sucker Punch Productions",
+      "genero": "Ação-aventura"
     },
     {
       "id": 33,
@@ -262,7 +358,10 @@
       "preco": 139.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1190460/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1190460/header.jpg",
+      "descricao": "Death Stranding é um jogo de ação e aventura que mistura exploração, entrega de cargas e uma narrativa única sobre conexão humana.",
+      "desenvolvedora": "Kojima Productions",
+      "genero": "Ação-aventura"
     },
     {
       "id": 34,
@@ -270,7 +369,10 @@
       "preco": 79.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1057090/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1057090/header.jpg",
+      "descricao": "Ori and the Will of the Wisps é um jogo de plataforma e aventura com gráficos deslumbrantes e trilha sonora emocionante.",
+      "desenvolvedora": "Moon Studios",
+      "genero": "Plataforma/metroidvania"
     },
     {
       "id": 35,
@@ -278,7 +380,10 @@
       "preco": 99.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/870780/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/870780/header.jpg",
+      "descricao": "Control: Ultimate Edition é um jogo de ação e aventura sobrenatural, onde o jogador investiga fenômenos paranormais em uma agência secreta.",
+      "desenvolvedora": "Remedy Entertainment",
+      "genero": "Ação-aventura"
     },
     {
       "id": 36,
@@ -286,7 +391,10 @@
       "preco": 159.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/header.jpg",
+      "descricao": "Sea of Thieves é um jogo de aventura multiplayer onde os jogadores vivem como piratas em um mundo aberto cheio de tesouros e perigos.",
+      "desenvolvedora": "Rare",
+      "genero": "Aventura multiplayer"
     },
     {
       "id": 37,
@@ -294,7 +402,10 @@
       "preco": 129.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
+      "descricao": "It Takes Two é um jogo cooperativo de aventura e plataforma que acompanha um casal em crise transformado em bonecos mágicos.",
+      "desenvolvedora": "Hazelight Studios",
+      "genero": "Aventura cooperativa/plataforma"
     },
     {
       "id": 38,
@@ -302,7 +413,10 @@
       "preco": 189.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1182900/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1182900/header.jpg",
+      "descricao": "A Plague Tale: Requiem é um jogo de aventura e furtividade que continua a história de Amicia e Hugo em uma Europa medieval devastada pela peste.",
+      "desenvolvedora": "Asobo Studio",
+      "genero": "Aventura/Stealth"
     },
     {
       "id": 39,
@@ -310,7 +424,10 @@
       "preco": 199.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg",
+      "descricao": "Lies of P é um RPG de ação inspirado em Pinóquio, com combate desafiador e ambientação sombria.",
+      "desenvolvedora": "NEOWIZ",
+      "genero": "RPG de ação (Soulslike)"
     },
     {
       "id": 40,
@@ -318,7 +435,10 @@
       "preco": 149.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1817230/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1817230/header.jpg",
+      "descricao": "Hi-Fi RUSH é um jogo de ação rítmica onde os combates e movimentos seguem o ritmo da música.",
+      "desenvolvedora": "Tango Gameworks",
+      "genero": "Ação rítmica"
     },
     {
       "id": 41,
@@ -326,7 +446,10 @@
       "preco": 179.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1282100/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1282100/header.jpg",
+      "descricao": "Remnant II é um jogo de tiro em terceira pessoa com elementos de RPG e mundos gerados proceduralmente.",
+      "desenvolvedora": "Gunfire Games",
+      "genero": "Tiro em terceira pessoa/Soulslike"
     },
     {
       "id": 42,
@@ -334,7 +457,10 @@
       "preco": 159.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg",
+      "descricao": "Atomic Heart é um FPS de ação e aventura ambientado em uma realidade alternativa da União Soviética.",
+      "desenvolvedora": "Mundfish",
+      "genero": "Tiro em primeira pessoa (FPS)"
     },
     {
       "id": 43,
@@ -342,7 +468,10 @@
       "preco": 119.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg",
+      "descricao": "Palworld é um jogo de sobrevivência e captura de monstros em mundo aberto, misturando combate, construção e exploração.",
+      "desenvolvedora": "Pocketpair",
+      "genero": "Aventura/sobrevivência"
     },
     {
       "id": 44,
@@ -350,7 +479,10 @@
       "preco": 249.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1668540/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1668540/header.jpg",
+      "descricao": "Trails into Reverie é um RPG japonês com múltiplos protagonistas e sistemas de combate estratégicos.",
+      "desenvolvedora": "Nihon Falcom",
+      "genero": "RPG japonês"
     },
     {
       "id": 45,
@@ -358,7 +490,10 @@
       "preco": 139.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1065310/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1065310/header.jpg",
+      "descricao": "Evil West é um jogo de ação em terceira pessoa ambientado no Velho Oeste com monstros sobrenaturais.",
+      "desenvolvedora": "Flying Wild Hog",
+      "genero": "Ação"
     },
     {
       "id": 46,
@@ -366,7 +501,10 @@
       "preco": 179.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1237320/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1237320/header.jpg",
+      "descricao": "Sonic Frontiers é um jogo de ação e aventura em mundo aberto estrelado pelo ouriço azul em novas ilhas misteriosas.",
+      "desenvolvedora": "Sonic Team",
+      "genero": "Ação-aventura/plataforma"
     },
     {
       "id": 47,
@@ -374,7 +512,10 @@
       "preco": 229.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1649240/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1649240/header.jpg",
+      "descricao": "Returnal é um roguelike de tiro em terceira pessoa com elementos de ficção científica e narrativa psicológica.",
+      "desenvolvedora": "Housemarque",
+      "genero": "Roguelike de tiro em terceira pessoa"
     },
     {
       "id": 48,
@@ -382,7 +523,10 @@
       "preco": 99.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg",
+      "descricao": "No Man's Sky é um jogo de exploração espacial em mundo aberto, com bilhões de planetas gerados proceduralmente.",
+      "desenvolvedora": "Hello Games",
+      "genero": "Aventura/exploração"
     },
     {
       "id": 49,
@@ -390,7 +534,10 @@
       "preco": 299.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/header.jpg",
+      "descricao": "Dragon's Dogma 2 é um RPG de ação em mundo aberto com combates dinâmicos e sistema de peões.",
+      "desenvolvedora": "Capcom",
+      "genero": "RPG de ação"
     },
     {
       "id": 50,
@@ -398,7 +545,10 @@
       "preco": 159.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1272080/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1272080/header.jpg",
+      "descricao": "PAYDAY 3 é um jogo cooperativo de tiro em primeira pessoa focado em assaltos a bancos e outras missões criminosas.",
+      "desenvolvedora": "Starbreeze Studios",
+      "genero": "Tiro em primeira pessoa cooperativo"
     },
     {
       "id": 51,
@@ -406,7 +556,10 @@
       "preco": 89.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg",
+      "descricao": "DAVE THE DIVER é um jogo de aventura e gerenciamento onde o jogador explora o oceano e administra um restaurante de sushi.",
+      "desenvolvedora": "MINTROCKET",
+      "genero": "Aventura/Simulação"
     },
     {
       "id": 52,
@@ -414,7 +567,10 @@
       "preco": 249.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/DLgLjXPNm5aX4dJ3qvXOCKW4.jpg"
+      "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/DLgLjXPNm5aX4dJ3qvXOCKW4.jpg",
+      "descricao": "Horizon Forbidden West é um RPG de ação em mundo aberto que continua a jornada de Aloy em um mundo pós-apocalíptico dominado por máquinas.",
+      "desenvolvedora": "Guerrilla Games",
+      "genero": "RPG de ação"
     },
     {
       "id": 53,
@@ -422,7 +578,10 @@
       "preco": 299.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1774580/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1774580/header.jpg",
+      "descricao": "Star Wars Jedi: Survivor é um jogo de ação e aventura que continua a saga de Cal Kestis no universo Star Wars.",
+      "desenvolvedora": "Respawn Entertainment",
+      "genero": "Ação-aventura"
     },
     {
       "id": 54,
@@ -430,7 +589,10 @@
       "preco": 159.9,
       "plataformaImg": "/playstation.png",
       "plataforma": "PS5",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/header.jpg",
+      "descricao": "Marvel's Guardians of the Galaxy é um jogo de ação e aventura onde o jogador lidera os Guardiões em uma missão intergaláctica.",
+      "desenvolvedora": "Eidos-Montréal",
+      "genero": "Ação-aventura"
     },
     {
       "id": 55,
@@ -438,7 +600,10 @@
       "preco": 119.9,
       "plataformaImg": "/xbox.png",
       "plataforma": "Xbox Series X",
-      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg"
+      "foto": "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg",
+      "descricao": "Yakuza: Like a Dragon é um RPG com combate por turnos que acompanha Ichiban Kasuga em sua ascensão no submundo japonês.",
+      "desenvolvedora": "Ryu Ga Gotoku Studio",
+      "genero": "RPG"
     }
   ]
 }

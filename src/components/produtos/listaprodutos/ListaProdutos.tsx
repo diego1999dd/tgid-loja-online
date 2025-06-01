@@ -22,7 +22,7 @@ function ListarProdutos() {
 
   useEffect(() => {
     buscarProdutos();
-  }, [produtos.length]);
+  }, []);
 
   return (
     <>
