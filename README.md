@@ -2,7 +2,7 @@
 
 # Loja Online | Extreme Games - React + TypeScript + Vite
 
-Este projeto é uma loja online simples desenvolvida em React + TypeScript + Vite, simulando uma experiência de e-commerce. Os produtos são consumidos de uma API REST fake utilizando o JSON Server, e o usuário pode adicionar/remover itens do carrinho e visualizar um resumo antes de finalizar a compra.
+Este projeto é uma loja online de games simples desenvolvida em React + TypeScript + Vite, simulando uma experiência de e-commerce. Os produtos são consumidos de uma API REST fake utilizando o JSON Server, e o usuário pode adicionar/remover itens do carrinho e visualizar um resumo antes de finalizar a compra.
 
 ## Funcionalidades
 
