@@ -1,8 +1,9 @@
 import { useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import produtosData from "../data/dbTeste.json";
 import type Produto from "../models/Produto";
 import { SealCheckIcon, StarIcon, SparkleIcon } from "@phosphor-icons/react";
+import { useCarrinho } from "../contexts/CarrinhoContexto";
 
 const lista: Produto[] = produtosData.produtos;
 
@@ -10,6 +11,7 @@ function ProdutoDetalhe() {
   const { id } = useParams();
   const produto = lista.find((p) => p.id === Number(id));
   const [starClicked, setStarClicked] = useState<boolean>(false);
+  const { adicionarProduto } = useCarrinho();
 
   if (!produto) {
     return <div>Produto não encontrado.</div>;
@@ -84,8 +86,11 @@ function ProdutoDetalhe() {
                 />
               )}
             </div>
-            <button className="flex items-center justify-center px-8 py-3 rounded-full text-white font-medium bg-blue-700 hover:bg-green-400 hover:text-black transition delay-100 cursor-pointer">
-              Comprar
+            <button
+              className="flex items-center justify-center px-8 py-3 rounded-full text-white font-medium bg-blue-700 hover:bg-green-400 hover:text-black transition delay-100"
+              onClick={() => adicionarProduto(produto)}
+            >
+              <Link to="/carrinho">Comprar</Link>
             </button>
           </div>
         </div>
@@ -102,6 +107,14 @@ function ProdutoDetalhe() {
           <h3 className="font-bold text-xl mb-2">Gênero:</h3>
           <p>{produto.genero}</p>
         </div>
+      </div>
+      <div className="w-full text-center mt-8">
+        <Link
+          to="/produtos"
+          className="text-blue-400 underline hover:text-blue-300 transition-colors"
+        >
+          Voltar para produtos
+        </Link>
       </div>
     </div>
   );

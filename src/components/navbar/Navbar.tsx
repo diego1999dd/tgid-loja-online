@@ -4,8 +4,12 @@ import {
   UserIcon,
 } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
+import { useCarrinho } from "../../contexts/CarrinhoContexto";
 
 function Navbar() {
+  const { carrinho } = useCarrinho();
+  const quantidadeProdutos = carrinho.length;
+
   return (
     <>
       <div className="flex w-full h-17 bg-gradient-to-r from-black to-gray-700 border-b-3 border-blue-500 justify-center">
@@ -36,9 +40,14 @@ function Navbar() {
               <li>
                 <UserIcon size={25} />
               </li>
-              <li>
-                <Link to="">
+              <li className="relative">
+                <Link to="/carrinho">
                   <ShoppingCartIcon size={25} />
+                  {quantidadeProdutos > 0 && (
+                    <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+                      {quantidadeProdutos}
+                    </span>
+                  )}
                 </Link>
               </li>
             </ul>
