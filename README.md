@@ -13,13 +13,20 @@ Este projeto é uma loja online de games simples desenvolvida em React + TypeScr
 
 ## Como rodar o projeto
 
-### 1. Instale as dependências
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/diego1999dd/tgid-loja-online.git
+```
+
+### 2. Instale as dependências
 
 ```bash
 yarn
 ```
 
-### 2. Inicie o servidor da API (JSON Server)
+### 3. Inicie o servidor da API (JSON Server)
 
 ```bash
 yarn api
@@ -27,13 +34,13 @@ yarn api
 
 > Isso irá rodar o JSON Server em `http://localhost:3001` usando o arquivo `dbTeste.json`.
 
-### 3. Em outro terminal, rode o projeto React
+### 4. Em outro terminal, rode o projeto React
 
 ```bash
 yarn dev
 ```
 
-### 4. Acesse no navegador
+### 5. Acesse no navegador
 
 Abra [http://localhost:5173](http://localhost:5173) (ou a porta indicada no terminal).
 
