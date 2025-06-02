@@ -16,7 +16,7 @@ function Home() {
         </p>
         <Link to="/produtos">
           <button className="cursor-pointer rounded-full bg-blue-600 hover:bg-green-400 hover:text-black transition delay-100 font-bold p-3 shadow-lg shadow-cyan-500/30">
-            Veja os produtos
+            Veja os produtos!
           </button>
         </Link>
       </div>
